@@ -1,2 +1,2 @@
 # FOODIE-Restaurant-Website
-Demo website for freelancing website
+Demo restaurant website for freelancing
